@@ -1,4 +1,4 @@
-application: rss2kindle-1470561467890
+application: raychanerkindle
 module: worker
 version: 1
 runtime: python27
